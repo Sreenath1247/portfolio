@@ -24,14 +24,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: SITE_CONFIG.title,
     description: SITE_CONFIG.description,
-    url: SITE_CONFIG.canonicalURL,
-    images: [SITE_CONFIG.socialImage],
   },
   twitter: {
     card: "summary_large_image",
     title: SITE_CONFIG.title,
     description: SITE_CONFIG.description,
-    images: [SITE_CONFIG.socialImage],
   },
 };
 

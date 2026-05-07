@@ -9,18 +9,16 @@ export const SITE_CONFIG: SiteConfig = {
   siteLogo: "/shlogo.svg",
   navLinks: [
     { text: "Experience", href: "#experience" },
-    { text: "Projects", href: "#projects" },
+    // { text: "Projects", href: "#projects" },
     { text: "About", href: "#about" },
   ],
   socialLinks: [
-    { text: "Twitter", href: "https://github.com/immois/astro-zen" },
-    { text: "LinkedIn", href: "https://github.com/immois/astro-zen" },
-    { text: "Github", href: "https://github.com/immois/astro-zen" },
-    { text: "Youtube", href: "https://github.com/immois/astro-zen" },
-    { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
+    // { text: "Twitter", href: "https://github.com/immois/astro-zen" },
+    { text: "LinkedIn", href: "https://www.linkedin.com/in/sreenath-h-2759b7112/" },
+    { text: "Github", href: "https://github.com/Sreenath1247" },
+    // { text: "Youtube", href: "https://github.com/immois/astro-zen" },
+    // { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
   ],
-  socialImage: "https://astro-zen.vercel.app/zen-og.png",
-  canonicalURL: "https://astro-zen.vercel.app",
 };
 
 export const SITE_CONTENT: SiteContent = {

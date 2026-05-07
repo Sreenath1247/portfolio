@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Sreenath H Logo Option 5</title>
+  <desc id="desc">Angular tech-style SH mark with a hex frame.</desc>
+  <defs>
+    <linearGradient id="techAccent" x1="12" y1="52" x2="52" y2="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2563eb" />
+      <stop offset="1" stop-color="#38bdf8" />
+    </linearGradient>
+  </defs>
+  <path d="M20 6h24l14 14v24L44 58H20L6 44V20z" fill="#0e141b" stroke="#334155" stroke-width="2" />
+  <path d="M32 12v40" fill="none" stroke="#1e293b" stroke-width="1.5" />
+  <path
+    d="M27.5 18h-6.5v9h6c2.4 0 4.5 2 4.5 4.5S29.4 36 27 36h-6v10h6.5M37 18v28M37 32h8M45 18v28"
+    fill="none"
+    stroke="url(#techAccent)"
+    stroke-width="3.8"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>

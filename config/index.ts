@@ -9,6 +9,7 @@ export const SITE_CONFIG: SiteConfig = {
   siteLogo: "/shlogo.svg",
   navLinks: [
     { text: "Experience", href: "#experience" },
+    {text: "Skills", href: "#skills"},
     // { text: "Projects", href: "#projects" },
     { text: "About", href: "#about" },
   ],
